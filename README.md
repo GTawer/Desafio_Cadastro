@@ -117,6 +117,12 @@ A atividade também introduz conceitos relacionados ao **processamento de dados 
 - **Data:** 15/09/2026
 
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/2Xnh-2tG8pYAAAAi/scott-pilgrim-scott-pilgrim-takes-off.gif" width="275" height="auto" alt="Scott Pilgrim GIF" />
+</p>
+
 
 <div align="center">
 
@@ -124,6 +130,6 @@ A atividade também introduz conceitos relacionados ao **processamento de dados 
 
 **🐘 PHP • Back-end • SENAI**
 
-*Projeto acadêmico desenvolvido para prática de programação web.*
+<sub>*Projeto acadêmico desenvolvido para prática de programação web.*</sub>
 
 </div>
