@@ -67,7 +67,7 @@ Depois disso, uma estrutura condicional verifica a idade:
 ◆ **HTML5** — estrutura do formulário  
 ◆ **GitHub** — versionamento e publicação do projeto
 
-## 🧩 Conceitos praticados
+## Conceitos praticados
 
 ◆ Formulários HTML com método `POST`  
 ◆ Variáveis em PHP  
@@ -89,7 +89,7 @@ A página apresenta um formulário simples para entrada dos dados necessários �
 
 Após o envio, o sistema informa se o acesso foi **permitido** ou **negado**.
 
-## 🎯 Resultado esperado
+## Resultado esperado
 
 ### ✅ Usuário maior de idade
 
